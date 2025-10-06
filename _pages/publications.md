@@ -32,7 +32,7 @@ Bland, A., Feldman, K., **Edwards, S.***, Hari, K., Liu, K., Grzybowski, S. (202
 
 **Edwards, S.*** (2024, June 25). Can AI Replace Human Participants in Research? _BrainWaves: Neuroscience Graduate Program Newsletter_. [https://www.mindsnews.ca/can-ai-replace-human-participants-in-research-june-2024](https://www.mindsnews.ca/can-ai-replace-human-participants-in-research-june-2024)
 
-**Edwards, S.*** (2024, March 3). What was graduate life like before the advent of digital technology? An interview with insights from Drs. Fahnestock, McCabe, and Minuzzi. _BrainWaves: Neuroscience Graduate Program Newsletter). [https://www.mindsnews.ca/what-was-graduate-life-like-before-the-advent-of-digital-technology-march-2024](https://www.mindsnews.ca/what-was-graduate-life-like-before-the-advent-of-digital-technology-march-2024) 
+**Edwards, S.*** (2024, March 3). What was graduate life like before the advent of digital technology? An interview with insights from Drs. Fahnestock, McCabe, and Minuzzi. _BrainWaves: Neuroscience Graduate Program Newsletter_. [https://www.mindsnews.ca/what-was-graduate-life-like-before-the-advent-of-digital-technology-march-2024](https://www.mindsnews.ca/what-was-graduate-life-like-before-the-advent-of-digital-technology-march-2024) 
 
 **Edwards, S.*** (2023, December 6). Digital Tools to Help You Survive Graduate School. _BrainWaves: Neuroscience Graduate Program Newsletter_. [https://www.mindsnews.ca/digital-tools-to-help-you-survive-grad-school-december-2023](https://www.mindsnews.ca/digital-tools-to-help-you-survive-grad-school-december-2023)
 
