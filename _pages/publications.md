@@ -2,6 +2,8 @@
 layout: page
 permalink: /publications/
 title: Publications
+---
+
 
 ## Journal Articles 
 ---
