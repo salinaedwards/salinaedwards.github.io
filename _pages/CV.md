@@ -4,4 +4,4 @@ permalink: /CV/
 title: Curriculum Vitae
 ---
 
-**Check out my CV below!**
+**Page under construction... CV coming soon**
