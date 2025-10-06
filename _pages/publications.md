@@ -1,9 +1,7 @@
 ---
-layout: page 
-title: Publications 
-permalink: /publications/ 
-
---- 
+layout: page
+permalink: /publications/
+title: Publications
 
 ## Journal Articles 
 ---
