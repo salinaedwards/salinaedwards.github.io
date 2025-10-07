@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /artwork/
-title: Artwork
+title: 
 ---
 
 Page under construction... Pieces of my art coming soon!
