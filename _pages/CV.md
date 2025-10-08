@@ -9,10 +9,10 @@ title: Curriculum Vitae
 </div>
 
 <p class="pdf-download">
-  <a href="/assets/Salina_Edwards_CV.pdf" download>Download CV (PDF)</a>
+  <a href="/assets/Salina_Edwards_CV.pdf" download> ⬇️ Download CV (PDF)</a>
 </p>
 
-<style>
+<style> 
 .pdf-viewer {
   width: 100%;
   height: 90vh; /* use most of the viewport height */
@@ -35,8 +35,8 @@ title: Curriculum Vitae
     margin-top: 2em;
   }
   .pdf-download a {
-    background-color: #007acc;
-    color: white;
+    background-color: white;
+    color: #007acc;
     padding: 10px 16px;
     border-radius: 6px;
     text-decoration: none;
