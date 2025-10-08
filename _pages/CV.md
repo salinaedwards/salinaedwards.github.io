@@ -52,5 +52,3 @@ title: Curriculum Vitae
   }
 }
 </style>
-
-</style>
