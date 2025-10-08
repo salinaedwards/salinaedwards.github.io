@@ -9,7 +9,7 @@ title: Curriculum Vitae
 </div>
 
 <p class="pdf-download">
-  <a href="/assets/Salina_Edwards_CV.pdf" download>  Download CV (PDF) ⬇️</a>
+  <a href="/assets/Salina_Edwards_CV.pdf" download>  Download CV ⬇️</a>
 </p>
 
 <style> 
