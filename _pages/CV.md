@@ -35,8 +35,8 @@ title: Curriculum Vitae
     margin-top: 2em;
   }
   .pdf-download a {
-    background-color: white;
-    color: #007acc;
+    background-color: #007acc;
+    color: white;
     padding: 10px 16px;
     border-radius: 6px;
     text-decoration: none;
