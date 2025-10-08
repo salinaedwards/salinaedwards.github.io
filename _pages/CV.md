@@ -10,6 +10,4 @@ title: Curriculum Vitae
   type="application/pdf" 
   width="100%" 
   height="800px">
-<p style="text-align:center;">
-  <a href="/assets/Salina_Edwards_CV.pdf" download>⬇️ Download CV</a>
-</p>
+
