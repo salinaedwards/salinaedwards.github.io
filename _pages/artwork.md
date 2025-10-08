@@ -1,10 +1,8 @@
 ---
 layout: page
 permalink: /artwork/
-title: 
+title: Art
 ---
-
-# Art 
 
 ---
 
