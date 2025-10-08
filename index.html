@@ -4,12 +4,12 @@ layout: page
 
 <!-- Top section -->
 <div class="intro-section">
-  <!-- Left: image -->
+  <!-- Image -->
   <img src="/images/ME.png" 
        alt="Photo of Salina Edwards"
        class="intro-img">
 
-  <!-- Right: text -->
+  <!-- Text -->
   <div class="intro-text">
     <p>
       Hello! I'm Salina&mdash;a recent MSc Neuroscience graduate from McMaster University, originally from a cattle ranch in Northern BC. During my graduate studies, I was awarded the CGS-M (NSERC) scholarship for my work. <br><br>
@@ -20,13 +20,11 @@ layout: page
 </div>
 
 <style>
+/* Desktop layout */
 .intro-section {
   display: flex;
-  align-items: flex-start;
-  flex-wrap: wrap;
+  align-items: flex-start;  /* aligns image to top of text */
   gap: 20px;
-  margin-top: 0;
-  padding-top: 0;
 }
 
 .intro-img {
@@ -35,12 +33,12 @@ layout: page
   flex-shrink: 0;
 }
 
-/* Mobile adjustments */
+/* Mobile layout */
 @media (max-width: 768px) {
   .intro-section {
-    flex-direction: column; /* stack image and text */
-    align-items: center;    /* center everything horizontally */
-    text-align: center;     /* center text */
+    flex-direction: column;   /* stack image above text */
+    align-items: center;      /* center everything horizontally */
+    text-align: center;       /* center the text */
   }
 
   .intro-img {
@@ -48,7 +46,7 @@ layout: page
   }
 
   .intro-text {
-    min-width: 0; /* let text shrink to container */
+    width: 100%;
   }
 }
 </style>
