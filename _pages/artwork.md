@@ -4,6 +4,10 @@ permalink: /artwork/
 title: 
 ---
 
+##Art 
+
+---
+
 Page under construction... Pieces of my art coming soon!
 
 <p align="center">
