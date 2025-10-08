@@ -4,7 +4,7 @@ permalink: /artwork/
 title: 
 ---
 
-##Art 
+# Art 
 
 ---
 
