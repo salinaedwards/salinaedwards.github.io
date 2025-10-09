@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blog-articles/
-title: 
+title: ""
 --- 
 
 ## Blog Articles
