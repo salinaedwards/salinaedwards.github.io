@@ -4,7 +4,7 @@ permalink: /blog-articles/
 title: 
 --- 
 
-<h2><u>Blog Articles</u></h2>
+## Blog Articles
 
 **Edwards, S.*** (2024, June 25). Can AI Replace Human Participants in Research? _BrainWaves: Neuroscience Graduate Program Newsletter_. [https://www.mindsnews.ca/can-ai-replace-human-participants-in-research-june-2024](https://www.mindsnews.ca/can-ai-replace-human-participants-in-research-june-2024)
 
