@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /contact/
+title: Contact Me!
 ---
 
-## Contact Me!
 
 There are three easy ways that you can reach me: 
 1. Email: salinaedwards01@gmail.com
