@@ -3,7 +3,7 @@ layout: page
 permalink: /CV/
 ---
 
-<h2><u>Curriculum Vitae</u></h2>
+## Curriculum Vitae
 
 <div class="pdf-viewer">
   <embed src="/assets/Salina_Edwards_CV.pdf" type="application/pdf">
