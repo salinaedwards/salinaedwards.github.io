@@ -3,7 +3,7 @@ layout: page
 permalink: /artwork/
 ---
 
-<h2><u>Art</u></h2>
+## Art
 
 Page under construction... Pieces of my art coming soon!
 
