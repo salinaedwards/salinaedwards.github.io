@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /publications/
-title: Journal Articles
+title: 
 ---
 
 
----
+<h2><u>Journal Articles</u></h2>
 
 **Edwards, S.***, Galang, C. M., Fung, K., Knight, A., & Obhi, S. S. (2025). Preliminary evidence for a selective agency-boosting effect of psychosocial stress. _Consciousness and Cognition_, _131_, 103872. [https://doi.org/10.1016/j.concog.2025.103872](https://doi.org/10.1016/j.concog.2025.103872)
 
