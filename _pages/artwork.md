@@ -4,7 +4,7 @@ permalink: /artwork/
 title: 
 ---
 
-<h2><u>Art</u></h2>
+## Art
 
 Page under construction... Pieces of my art coming soon!
 
