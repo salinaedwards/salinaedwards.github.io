@@ -1,16 +1,15 @@
 ---
 layout: page
 permalink: /publications/
+title: Journal Articles
 ---
-
-## Journal Articles
 
 **Edwards, S.***, Galang, C. M., Fung, K., Knight, A., & Obhi, S. S. (2025). Preliminary evidence for a selective agency-boosting effect of psychosocial stress. _Consciousness and Cognition_, _131_, 103872. [https://doi.org/10.1016/j.concog.2025.103872](https://doi.org/10.1016/j.concog.2025.103872)
 
 **Edwards, S.***, Jenkins, R., Jacobs, O., & Kingstone, A. (2024). The medium modulates the medusa effect: Perceived mind in analogue and digital images. _Cognition_, _249_, 105827. [https://doi.org/10.1016/j.cognition.2024.105827](https://doi.org/10.1016/j.cognition.2024.105827)
 
 
-## Book Chapters
+# Book Chapters
 
 **Edwards, S.***, Feldman, K., Bland, A., Grzybowski, S. (2023). “The Pathway Forward.” In _Building Resilient Rural Communities: Responding to Climate Change & Ecosystem Disruption_. Victoria, BC: BCcampus. [https://pressbooks.bccampus.ca/ccedarrproject/part/chapter-11-the-pathway-forward/](https://pressbooks.bccampus.ca/ccedarrproject/part/chapter-11-the-pathway-forward/)
 
