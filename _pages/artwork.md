@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /artwork/
-title: Art
+title: 
 ---
 
----
+<h2><u>Art</u></h2>
 
 Page under construction... Pieces of my art coming soon!
 
