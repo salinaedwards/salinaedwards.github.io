@@ -1,10 +1,9 @@
 ---
 layout: page
 permalink: /CV/
-title: 
+title: Curriculum Vitae
 ---
 
-## Curriculum Vitae
 
 <div class="pdf-viewer">
   <embed src="/assets/Salina_Edwards_CV.pdf" type="application/pdf">
