@@ -4,7 +4,6 @@ permalink: /CV/
 title: Curriculum Vitae
 ---
 
----
 
 <div class="pdf-viewer">
   <embed src="/assets/Salina_Edwards_CV.pdf" type="application/pdf">
