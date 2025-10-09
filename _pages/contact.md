@@ -4,7 +4,7 @@ title:
 permalink: /contact/
 ---
 
-<h2><u>Contact Me!</u></h2>
+## Contact Me!
 
 There are three easy ways that you can reach me: 
 1. Email: salinaedwards01@gmail.com
