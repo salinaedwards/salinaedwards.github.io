@@ -20,3 +20,13 @@ Grzybowski, S., Dhaliwal, R., **Edwards, S.*** (2023). “Data Transparency to S
 Feldman, K., de Waal, A., **Edwards, S.***, Bland, A., Hari, K., Grzybowski, S. (2023). “Transformative Resilience.” _In Building Resilient Rural Communities: Responding to Climate Change & Ecosystem Disruption_. Victoria, BC: BCcampus. [https://pressbooks.bccampus.ca/ccedarrproject/part/chapter-7-transformative-resilience/](https://pressbooks.bccampus.ca/ccedarrproject/part/chapter-7-transformative-resilience/) 
 
 Bland, A., Feldman, K., **Edwards, S.***, Hari, K., Liu, K., Grzybowski, S. (2023). “Sustainability.” _In Building Resilient Rural Communities: Responding to Climate Change & Ecosystem Disruption_. Victoria, BC: BCcampus. [https://pressbooks.bccampus.ca/ccedarrproject/part/sustainability/](https://pressbooks.bccampus.ca/ccedarrproject/part/sustainability/)
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-86S7F2CSK3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-86S7F2CSK3');
+</script>
