@@ -15,3 +15,13 @@ title: ""
 **Edwards, S.*** (2022, August 25). A Piece of the Peace: Rural Community Perspectives from the Northern Peace Region. _RHSRNbc Rural Health Research Knowledge Hub_. [https://blogs.ubc.ca/rhsrnbcresearchsupport/2022/08/25/a-piece-of-the-peace-rural-community-perspectives-from-the-northern-peace-region/](https://blogs.ubc.ca/rhsrnbcresearchsupport/2022/08/25/a-piece-of-the-peace-rural-community-perspectives-from-the-northern-peace-region/)
 
 **Edwards, S.*** (2022, June 24). Forecast for the Future: Extreme Temperature Effects on British Columbia’s Rural Farming Systems. _RHSRNbc Rural Health Research Knowledge Hub_. [https://blogs.ubc.ca/rhsrnbcresearchsupport/2022/06/24/forecast-for-the-future-extreme-temperature-effects-on-british-columbias-rural-farming-systems/](https://blogs.ubc.ca/rhsrnbcresearchsupport/2022/06/24/forecast-for-the-future-extreme-temperature-effects-on-british-columbias-rural-farming-systems/)
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-86S7F2CSK3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-86S7F2CSK3');
+</script>
